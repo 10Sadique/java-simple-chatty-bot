@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Simple_Chatty_Bot_(Java).Simple_Chatty_Bot__Java_-task" target="17" />
+      <module name="Simple_Chatty_Bot_(Java).Simple_Chatty_Bot__Java_-task-build-classes-java" target="17" />
+      <module name="Simple_Chatty_Bot_(Java).Simple_Chatty_Bot__Java_-task-build-classes-java.main" target="17" />
+      <module name="Simple_Chatty_Bot_(Java).Simple_Chatty_Bot__Java_-task-build-classes-java.test" target="17" />
+      <module name="Simple_Chatty_Bot_(Java).Simple_Chatty_Bot__Java_-task-build-generated-sources-annotationProcessor-java" target="17" />
+      <module name="Simple_Chatty_Bot_(Java).Simple_Chatty_Bot__Java_-task-build-generated-sources-annotationProcessor-java.main" target="17" />
+      <module name="Simple_Chatty_Bot_(Java).Simple_Chatty_Bot__Java_-task-build-generated-sources-annotationProcessor-java.test" target="17" />
+      <module name="Simple_Chatty_Bot_(Java).Simple_Chatty_Bot__Java_-task-build-generated-sources-headers-java" target="17" />
+      <module name="Simple_Chatty_Bot_(Java).Simple_Chatty_Bot__Java_-task-build-generated-sources-headers-java.main" target="17" />
+      <module name="Simple_Chatty_Bot_(Java).Simple_Chatty_Bot__Java_-task-build-generated-sources-headers-java.test" target="17" />
+      <module name="Simple_Chatty_Bot_(Java).Simple_Chatty_Bot__Java_-task-build-reports-tests" target="17" />
+      <module name="Simple_Chatty_Bot_(Java).Simple_Chatty_Bot__Java_-task-build-reports-tests.main" target="17" />
+      <module name="Simple_Chatty_Bot_(Java).Simple_Chatty_Bot__Java_-task-build-reports-tests.test" target="17" />
+      <module name="Simple_Chatty_Bot_(Java).Simple_Chatty_Bot__Java_-task-build-test-results" target="17" />
+      <module name="Simple_Chatty_Bot_(Java).Simple_Chatty_Bot__Java_-task-build-test-results.main" target="17" />
+      <module name="Simple_Chatty_Bot_(Java).Simple_Chatty_Bot__Java_-task-build-test-results.test" target="17" />
+      <module name="Simple_Chatty_Bot_(Java).Simple_Chatty_Bot__Java_-task-build-tmp" target="17" />
+      <module name="Simple_Chatty_Bot_(Java).Simple_Chatty_Bot__Java_-task-build-tmp.main" target="17" />
+      <module name="Simple_Chatty_Bot_(Java).Simple_Chatty_Bot__Java_-task-build-tmp.test" target="17" />
+      <module name="Simple_Chatty_Bot_(Java).Simple_Chatty_Bot__Java_-task.main" target="17" />
+      <module name="Simple_Chatty_Bot_(Java).Simple_Chatty_Bot__Java_-task.test" target="17" />
+      <module name="Simple_Chatty_Bot_(Java).util" target="17" />
+      <module name="Simple_Chatty_Bot_(Java).util.main" target="17" />
+      <module name="Simple_Chatty_Bot_(Java).util.test" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
